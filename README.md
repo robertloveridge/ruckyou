@@ -1,5 +1,7 @@
 # Ruck You - Rucking in the UK
 
+![Ruck You](IMG_6335.png)
+
 ---
 
 ## Welcome to Ruck You!
