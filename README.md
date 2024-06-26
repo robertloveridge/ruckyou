@@ -1,10 +1,10 @@
-# Ruck You - Rucking in the UK
+
 
 ![Ruck You](Ruck%20You%20-%202.png)
 
 ---
 
-## Welcome to Ruck You!
+# Welcome to Ruck You!
 
 Are you ready to take your fitness to the next level? Rucking is a fantastic way to build strength, improve endurance, and explore the great outdoors. Whether you're a seasoned hiker or just starting out, Ruck You is a new commmunity ready to support.
 
