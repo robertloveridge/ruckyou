@@ -1,6 +1,6 @@
 # Ruck You - Rucking in the UK
 
-![Ruck You](IMG_6335.png)
+![Ruck You](Ruck%20You%20-%202.png)
 
 ---
 
