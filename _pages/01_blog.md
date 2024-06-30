@@ -37,7 +37,7 @@ permalink: /blog
   {% for post in pages_list %}
     {% if post.title != null %}
     {% if group == null or group == post.group %}
-    - <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+    <li> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
     {% endif %}
   {% endfor %}
