@@ -1,1 +1,27 @@
-theme: jekyll-theme-minimal
+# Setup
+title:        Ruck You
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Rob Loveridge
+  url:        http://ruckyou.co.uk
+  location:   United Kingdom
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Others
+markdown: kramdown
+include: ['_pages']
+future: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+remote_theme: pages-themes/minimal@v0.2.0
