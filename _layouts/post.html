@@ -6,9 +6,4 @@ layout: default
 
 {{ content }}
 
-<h3>See my latest post...</h3>
-
-{% assign post = site.posts.first %}
-{% if post.title %}
-    <a href="{{ site.url }}{{ post.url }}" title="Internal link to my blog post: {{ post.title }}">{{ post.title }}</a> posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%B %d, %Y" }}</strong></time></span>
-{% endif %}
+<hr>
