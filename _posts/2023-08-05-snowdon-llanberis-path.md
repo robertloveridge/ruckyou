@@ -16,7 +16,7 @@ Considering it was August, the weather was unexpectedly cold—cold enough that 
 
 Midway through our hike, the path became steeper and more rugged. We paused frequently to take in the breathtaking views of the valleys below and the peaks around us. These moments of rest were also perfect for capturing photos and sharing snacks, ensuring we stayed fueled for the journey ahead.
 
-Reaching the summit was an exhilarating experience, even though we had already seen the views from the train. Standing at the top of Snowdon on foot, we were rewarded with a sense of accomplishment and the beauty of the landscape made every step worthwhile. My son's smile at the summit was a highlight of the trip, a testament to the joy of shared adventures.
+Reaching the summit was an exhilarating experience, even though we couldn't see much due to the dense fog. Despite the lack of visibility, standing at the top of Snowdon on foot was a rewarding accomplishment. My son's smile at the summit was a highlight of the trip, a testament to the joy of shared adventures.
 
 The descent was equally enjoyable, with the downward journey offering a different perspective of the path we had conquered. As we returned to Llanberis, we reflected on our day's achievements and the bond strengthened by our shared adventure.
 
