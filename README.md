@@ -1,6 +1,6 @@
 
 
-![Ruck You](Ruck%20You%20-%202.png)
+![Ruck You](Ruck_You_Logo.png)
 
 ---
 
