@@ -8,7 +8,7 @@ permalink: /blog
 
 {% assign post = site.posts.first %}
 {% if post.title %}
-[{{ post.title }}]({{ site.url }}{{ post.url }} "Internal link to my blog post: {{ post.title }}") posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%B %d, %Y" }}</strong></time></span>
+[{{ post.title }}]({{ site.url }}{{ post.url }} "Internal link to my blog post: {{ post.title }}") posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%A %e %B %Y" }}</strong></time></span>
 {% endif %}
 
 ---
@@ -37,7 +37,7 @@ permalink: /blog
   {% for post in pages_list %}
     {% if post.title != null %}
     {% if group == null or group == post.group %}
-    <li> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    <li> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%A %e %B %Y" }}</time></span> - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
     {% endif %}
   {% endfor %}
