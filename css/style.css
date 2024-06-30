@@ -26,7 +26,7 @@ body {
 }
 
 .logo {
-    height: 50px; /* Adjust the height as needed */
+   width: 50%; /* Adjust the height as needed */
     margin-right: 15px; /* Space between logo and text */
 }
 
