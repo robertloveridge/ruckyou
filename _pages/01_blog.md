@@ -11,7 +11,7 @@ permalink: /blog
 [{{ post.title }}]({{ site.url }}{{ post.url }} "Internal link to my blog post: {{ post.title }}") posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%B %d, %Y" }}</strong></time></span>
 {% endif %}
 
-<hr>
+---
 
 ## Categories
 <ul>
@@ -28,7 +28,7 @@ permalink: /blog
 {% assign categories_list = nil %}
 </ul>
 
-<hr>
+---
 
 {% for tag in site.categories %}
 ## {{ tag[0] | capitalize }}
@@ -46,4 +46,7 @@ permalink: /blog
 </ul>
 {% endfor %}
 
-<hr>
+---
+
+**Walk. Ruck. Explore.**
+
