@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "YOMP Y-CO 1 Rucking Backpack"
-date:   2024-07-01
-categories: product-review
+date:   2024-06-30
+categories: productreview
 ---
 
 # YOMP Y-CO 1 Rucking Backpack - Black Multicam Review
