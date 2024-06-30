@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #FF8A00;
+  background-color: #61CB5C; /* Green: #61CB5C; Orange: #FF8A00  */
   color: #fff;
   padding-top: 50px;
   /* Adjusted padding */
