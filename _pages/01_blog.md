@@ -46,7 +46,4 @@ permalink: /blog
 </ul>
 {% endfor %}
 
----
-
-**Walk. Ruck. Explore.**
 
