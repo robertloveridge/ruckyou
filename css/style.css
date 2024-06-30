@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #ff6961;
+  background-color: #FF8A00;
   color: #fff;
   padding-top: 50px;
   /* Adjusted padding */
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-  background-color: #343a40;
+  background-color: #fff; /* #343a40; */
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -22,7 +22,7 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: #fff;
+  color: #343a40;
 }
 
 .social-icons a {
