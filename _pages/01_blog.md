@@ -4,12 +4,14 @@ title: Blog
 permalink: /blog
 ---
 
-## See my latest post...
+##### See my latest post...
 
 {% assign post = site.posts.first %}
 {% if post.title %}
 [{{ post.title }}]({{ site.url }}{{ post.url }} "Internal link to my blog post: {{ post.title }}") posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%B %d, %Y" }}</strong></time></span>
 {% endif %}
+
+<hr>
 
 ## Categories
 <ul>
@@ -26,8 +28,10 @@ permalink: /blog
 {% assign categories_list = nil %}
 </ul>
 
+<hr>
+
 {% for tag in site.categories %}
-### {{ tag[0] | capitalize }}
+## {{ tag[0] | capitalize }}
 <ul>
   {% assign pages_list = tag[1] %}
   {% for post in pages_list %}
@@ -41,3 +45,5 @@ permalink: /blog
   {% assign group = nil %}
 </ul>
 {% endfor %}
+
+<hr>
