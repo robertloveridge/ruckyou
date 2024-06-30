@@ -1,0 +1,54 @@
+/* Custom Styles */
+body {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.jumbotron {
+  background-color: #ff6961;
+  color: #fff;
+  padding-top: 50px;
+  /* Adjusted padding */
+  padding-bottom: 50px;
+  /* Adjusted padding */
+}
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, .8);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+.social-icons a {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #333;
+}
+
+.profile-img, .company-img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 10px;
+  /* Make the image rounded */
+  border: 4px solid #fff;
+  /* Add a border */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* Add a shadow */
+  width: 200px;
+  /* Adjust the width */
+  height: 200px;
+  /* Adjust the height */
+  object-fit: cover;
+  /* Ensure the image covers the entire area */
+}
+
+footer {
+  padding: 20px 0;
+  text-align: center;
+}  
