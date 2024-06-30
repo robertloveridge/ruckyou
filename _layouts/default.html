@@ -1,18 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    {% include header.html %}
-    <main>
-      {{ content }}
-    </main>
-    {% include footer.html %}
-    <script src="{{ '/assets/main.js' | relative_url }}"></script>
-  </body>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+  {% include page-header.html %}
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+
+  {% include page-footer.html %}
+</body>
+
 </html>
