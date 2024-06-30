@@ -1,6 +1,6 @@
 /* Custom Styles */
 body {
-  background-color: #ffffffc;
+  background-color: #fff;
   color: #333;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, .8);
+  color: rgba(0, 0, 0, .8);
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
