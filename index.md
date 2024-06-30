@@ -3,10 +3,6 @@ layout: default
 title: Welcome to Ruck You!
 ---
 
-![Ruck You](Ruck_You_Logo.png)
-
----
-
 Are you ready to take your fitness to the next level? Rucking is a fantastic way to build strength, improve endurance, and explore the great outdoors. Whether you're a seasoned hiker or just starting out, Ruck You is a new commmunity ready to support.
 
 ---
