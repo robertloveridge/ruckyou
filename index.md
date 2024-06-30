@@ -57,6 +57,3 @@ Hi, I'm Rob, the founder of Ruck You. Rucking isn't new, but it's new to me. As 
 
 I created Ruck You to share my experiences, tips, and to build a supportive community of ruckers. Whether you're a beginner like me or an experienced rucker, I hope this platform helps you find the motivation, tips, and companionship you need to succeed. Let's walk, ruck, and explore together!
 
----
-
-**Walk. Ruck. Explore.**
