@@ -4,26 +4,6 @@ title: Blog
 permalink: /blog
 ---
 
-  {% assign post = site.posts.first %}
-  {% if post.title %}
-      <a href="{{ site.url }}{{ post.url }}" title="Internal link to my blog post: {{ post.title }}">{{ post.title }}</a> posted on <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><strong>{{ post.date | date: "%B %d, %Y" }}</strong></time></span>
-  {% endif %}
-
-  <h2>Categories</h2>
-  <ul>
-  {% assign categories_list = site.categories %}
-    {% if categories_list.first[0] == null %}
-      {% for category in categories_list %}
-        <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
-      {% endfor %}
-    {% else %}
-      {% for category in categories_list %}
-        <li><a href="#{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
-      {% endfor %}
-    {% endif %}
-  {% assign categories_list = nil %}
-  </ul>
-
   {% for tag in site.categories %}
     <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
     <ul>
