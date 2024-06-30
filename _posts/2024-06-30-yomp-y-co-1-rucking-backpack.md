@@ -2,7 +2,7 @@
 layout: post
 title:  "YOMP Y-CO 1 Rucking Backpack"
 date:   2024-06-30
-categories: "product reviews"
+category: product reviews
 ---
 
 ## Product Overview
