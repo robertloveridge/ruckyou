@@ -54,4 +54,3 @@ At Ruck You, we're building a community of like-minded individuals who are inter
 Hi, I'm Rob, the founder of Ruck You. Rucking isn't new, but it's new to me. As someone who is just starting out with this form of exercise, I want to explore the benefits for both physical and mental health. My goal with Ruck You is to inspire others to join me on this journey, improve their fitness, and enjoy the beauty of the UK's outdoors.
 
 I created Ruck You to share my experiences, tips, and to build a supportive community of ruckers. Whether you're a beginner like me or an experienced rucker, I hope this platform helps you find the motivation, tips, and companionship you need to succeed. Let's walk, ruck, and explore together!
-
